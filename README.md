@@ -1,1 +1,1 @@
-# Custom-filter
+# Adguard-custom
