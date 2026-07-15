@@ -33,16 +33,13 @@
 ||podlytics.pod.ir^
 
 ! ==================== گوگل / فایربیس تله‌متری ====================
-||android.apis.google.com^
 ||firebaseremoteconfig.googleapis.com^
-||firebaseinstallations.googleapis.com^
 ||csi.gstatic.com^
 ||scone-pa.googleapis.com^
 ||fundingchoicesmessages.google.com^
 ||footprints-pa.googleapis.com^
 ||geller-pa.googleapis.com^
 ||userlocation.googleapis.com^
-||mdh-pa.googleapis.com^
 ||feedback-pa.googleapis.com^
 ||feedback-pa.clients6.google.com^
 ||datasaver.googleapis.com^
@@ -53,7 +50,19 @@
 ||regioninfo-pa.googleapis.com^
 ||discover-pa.googleapis.com^
 ||auditrecording-pa.googleapis.com^
-||ip-api.com^
+||doubleclick.net^
+||googlesyndication.com^
+||googleadservices.com^
+||google-analytics.com^
+||app-measurement.com^
+||googletagmanager.com^
+||googletagservices.com^
+||admob.com^
+||admob-app-id-*.googleapis.com^
+||crashlytics.com^
+||mdm-*.googleapis.com^
+||update.googleapis.com^
+||usagestats.googleapis.com^
 
 ! ==================== مایکروسافت / آژور ====================
 ||events.data.microsoft.com^
@@ -99,3 +108,7 @@
 ||cdn.optimizely.com^
 ||public-cis.exponea.com^
 ||mparticle.map.fastly.net^
+!=======================
+@@||yasdl.com^
+@@||sourceforge.net^
+@@||downloads.sourceforge.net^
